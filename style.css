@@ -1,0 +1,245 @@
+/* Navbar_section_Start */
+/* Navbar_section_Start */
+
+.navbar {
+    padding: 30px 0px !important;
+    background-color: #ffff;
+    box-shadow: 0px 0px 0px 1px #ffff;
+}
+.nav_content {
+    font-weight: 700;
+}
+.custom_width{
+    width: 85% !important;
+}
+.navbar ul li {
+    font-weight: 600;
+    color: #CFCFCF;
+}
+
+
+
+/* Hero_section_Start */
+/* Hero_section_Start */
+
+#hero_section_area {
+    background-color: #ffff;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.hero_content h1 {
+    font-weight: 600;
+    font-size: 45px;
+}
+.hero_content h4 {
+    color: #989DA3;
+}
+
+.hero_btn2 {
+    background-color: #DAE7FB !important;
+    margin-left: 2%
+}
+
+
+
+/* Landings_pages_section_Start */
+/* Landings_pages_section_Start */
+
+#landings_section_area {
+    background-color: #F2F6FC;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.landings_content h6 {
+    margin: auto;
+    background-color: #DAE7FB;
+    color: #0061F2;
+    padding: 6px 15px;
+    font-size: 14px;
+    border-radius: 50px;
+    display: inline;
+}
+.landings_content p {
+    font-size: 20px;
+    color: #989DA3;
+}
+
+.landings_img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0px 0px 3px 0px #918d8d;
+    transition: all .3s;
+    cursor: pointer;
+    /* margin-top: 20px; */
+}
+.landings_img:hover {
+    margin-top: -6px;
+}
+
+
+/* Inner_Pages_section_Start */
+/* Inner_Pages_section_Start */
+
+#inner_pages_area {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #ffff;
+}
+
+.inner_pages_content h6 {
+    margin: auto;
+    background-color: #DAE7FB;
+    color: #0061F2;
+    padding: 6px 15px;
+    font-size: 14px;
+    border-radius: 50px;
+    display: inline;
+}
+.inner_pages_content p {
+    font-size: 20px;
+    color: #989DA3;
+}
+
+.list_box {
+    box-shadow: 0px 0px 10px 3px #e8e4e4;
+    cursor: pointer;
+}
+
+.carres_pages {
+    padding-top: 42px;
+}
+
+#inner_pages_area li {
+    transition: all .1s;
+}
+#inner_pages_area li:hover {
+    background-color: #dbe2ee;
+}
+
+
+
+/* Header_Examples_section_Start */
+/* Header_Examples_section_Start */
+
+#header_examples_area {
+    background-color: #F2F6FC;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.header_examples_content h6 {
+    background-color: #DAE7FB;
+    color: #0061F2;
+    padding: 6px 15px;
+    font-size: 14px;
+    border-radius: 50px;
+    display: inline;
+}
+.header_examples_content p {
+    font-size: 20px;
+    color: #989DA3;
+}
+
+.header_examples_img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0px 0px 3px 0px #918d8d;
+    transition: all .3s;
+    cursor: pointer;
+}
+.header_examples_img:hover {
+    margin-top: -6px;
+}
+
+
+/* Documentation_section_Start */
+/* Documentation_section_Start */
+
+#documentation_area {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #ffff;
+}
+
+.documentation_content p {
+    font-size: 20px;
+    color: #989DA3;
+}
+.documentation_number {
+    font-size: 80px;
+    font-weight: 600;
+    color: #C5CCD6;
+}
+.number_title {
+    font-size: 20px;
+}
+.number_sub_title {
+    font-size: 18px;
+    color: #989DA3;
+}
+
+/* Footer_section_Start */
+/* Footer_section_Start */
+
+#footer_area {
+    padding-top: 100px;
+    padding-bottom: 50px;
+    background-color: #F2F6FC;
+}
+
+.footer_content_title {
+    font-size: 20px;
+    color: #A7AEB8;
+    font-weight: 700;
+}
+.list_sub_title {
+    color: #a1a7b0;
+}
+.footer_content i {
+    font-size: 22px;
+    color: #A7AEB8;
+    padding: 0px 3px;
+    cursor: pointer;
+}
+
+.list_title {
+    font-weight: 600;
+    color: #AAB1BB;
+    margin-left: 32px;
+}
+
+.footer_content li {
+    list-style: none;
+}
+
+.footer_content a {
+    text-decoration: none;
+    line-height: 30px;
+    color: #A7AEB8;
+}
+.footer_content a:hover {
+    border-bottom: 1px solid #A7AEB8;
+}
+
+
+.footer_content {
+    border-bottom: 2px solid #A7AEB8;
+    padding-bottom: 30px;
+}
+
+.footer_end_content span {
+    color: #AAB1BB;
+    font-size: 14px;
+}
+.footer_end_content a {
+    text-decoration: none;
+    color: #AAB1BB;
+    font-size: 14px;
+}
+.footer_end_content a:hover {
+    border-bottom: 1px solid #AAB1BB;
+}
